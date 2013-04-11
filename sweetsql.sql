@@ -1,4 +1,4 @@
-  select * 
+  select contacts.*  --bugfix105 
     from contacts
         ,addresses
         ,customers
