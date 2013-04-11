@@ -1,4 +1,4 @@
-  select * 
+  select contacts.*   --BUGFIX DON'T PLAYER HATE, PARTICIPATE...
     from contacts
         ,addresses
         ,customers
