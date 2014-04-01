@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-  select contacts.*   --BUGFIX DON'T PLAYER HATE, PARTICIPATE...
-=======
-  select contacts.*  --bugfix105 
->>>>>>> 7780aa40b4c3c073949af8ed1640540a2f300201
+  select contacts.*
     from contacts
         ,addresses
         ,customers
