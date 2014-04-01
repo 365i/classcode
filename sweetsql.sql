@@ -1,4 +1,4 @@
-  select contacts.*
+  select contacts.first_name, contacts.last_name
     from contacts
         ,addresses
         ,customers
