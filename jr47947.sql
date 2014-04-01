@@ -1,0 +1,1 @@
+select 'JR' from dual;
